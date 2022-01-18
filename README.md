@@ -1,5 +1,5 @@
 # parental-control
-Simple light-weight Ubuntu parental control service
+Simple light-weight Ubuntu parental control service that limits the cumulative time spent running specific processes (e.g. games) on a single day. If the CAP is exceeded, the Linux system shuts down.
 
 ## Installation
 
